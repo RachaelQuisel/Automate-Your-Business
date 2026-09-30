@@ -15,7 +15,9 @@ at least two new workshops per month.
 3. A scheduled cloud agent runs on the 1st and 15th of each month. It searches Gmail for snip
    emails, picks one episode that has not been used yet, archives the raw snips, writes a
    workshop from them, and commits everything to this repo.
-4. Rachael pulls the new files down: `git pull`.
+4. The agent posts the full curriculum as a Slack Canvas in `#automate_your_business`
+   (private, `xraytech` workspace) with a summary message linking the canvas and the repo.
+5. Rachael pulls the new files down: `git pull`.
 
 ## Layout
 
@@ -43,4 +45,11 @@ next run, or the routine will not know about it.
 
 Managed at https://claude.ai/code/routines — schedule, prompt, and connectors live there.
 Schedule: 1st and 15th of the month, 9:00 AM Pacific.
-Connector required: Gmail (read-only search of the Snipd emails).
+Connectors required: Gmail (read-only search of the Snipd emails) and Slack (post the workshop
+to `#automate_your_business`, channel ID `C0C5UAT6ER2`).
+
+### Schedule and daylight saving
+
+The cron expression is `7 16 1,15 * *` — UTC, because routines run on UTC. That is 9:07 AM Pacific
+from March to November and 8:07 AM Pacific from November to March. The hour drifts by one; the day
+does not. Left as-is on purpose rather than maintained twice a year.

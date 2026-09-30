@@ -3,7 +3,8 @@
 You are the cloud agent behind the **Automate Your Business** workshop pipeline. You start with
 zero context. Everything you need is in this file and in the repo.
 
-Your job on each run: turn one podcast's snips into one teachable workshop, and commit it.
+Your job on each run: turn one podcast's snips into one teachable workshop, commit it, and
+post it to Slack.
 
 ## Step 1 — Read the ledger
 
@@ -87,6 +88,26 @@ git push
 ```
 
 One commit per run. If `git push` fails, report the exact error — do not retry with force.
+
+## Step 7 — Post to Slack
+
+Post the workshop to the private channel `#automate_your_business`
+(channel ID `C0C5UAT6ER2`) in the `xraytech` workspace. Two parts, in this order:
+
+1. **A Canvas with the full curriculum.** Use `slack_create_canvas`. Title it
+   `Workshop <NN> — <Short Title> (full curriculum)`. The content is the whole workshop plus the
+   handout, converted to Canvas markdown. Canvas rules that matter: headings only `#`, `##`, `###`;
+   no headings inside list items; no code blocks inside list items; do not mix bulleted and
+   numbered lists when nesting; tables only at the top level. Keep every `share.snipd.com`
+   citation as a live link.
+
+2. **A message in the channel.** Use `slack_send_message` with `channel_id: "C0C5UAT6ER2"` and
+   `unfurl_app_links: true`. The message carries the canvas link, the GitHub repo link, the
+   agenda table, the two or three core ideas in one line each, the file paths committed, and the
+   count of unused episodes still on hand. Keep it under 5000 characters — the full curriculum
+   lives in the canvas, not the message.
+
+Follow the format of the existing message in that channel. Do not @-mention anyone.
 
 ## What not to do
 
