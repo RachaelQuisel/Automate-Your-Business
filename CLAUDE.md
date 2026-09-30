@@ -109,6 +109,13 @@ Post the workshop to the private channel `#automate_your_business`
 
 Follow the format of the existing message in that channel. Do not @-mention anyone.
 
+Two formatting rules, both learned from the first run:
+
+- **Do not write a "Sent using Claude" line.** Slack appends its own attribution. Writing one
+  produces it twice.
+- **Use `*bold*` for the labels, not `_italics_`.** Slack renders single underscores as italic,
+  which reads as an aside rather than a heading.
+
 ## What not to do
 
 - Do not modify existing workshops. Each run only adds.
