@@ -68,12 +68,42 @@ One sentence that lands the promise. Then a single assignment small enough to fi
 Timing risks, the segment to cut if running long, questions that will come up and the answers,
 and anything to prepare beforehand.
 
+### 10. Best practices nobody tells you
+
+Two or three short, concrete practices for building the kind of automation this workshop teaches
+— the kind of thing that only shows up after something has gone wrong once. These do not need a
+snip behind them; they're operating knowledge, not podcast content. Each one gets:
+
+- **The practice** in one sentence.
+- **Why it bites people** — the failure it prevents, stated plainly.
+- **The example** — tied to *this workshop's* live build or exercise specifically, not generic.
+
+One of the 2–3 items is always a **stop condition**: a plain-English example of how the thing
+being built in this workshop knows when to stop, pause, or hand off to a person, rather than
+running forever or running past the point it's still right. Name the actual stop condition for
+the actual example being built that day.
+
 ---
 
 ## handout.md
 
-One page, printable. No teaching content — this is a form, not a summary.
+One page, printable, and designed to look good printed — real visual hierarchy (clear headings,
+whitespace, maybe a simple rule or box), not a wall of text. No teaching content — this is a form,
+not a summary.
 
 - Title and one-line purpose.
 - The worksheet itself: numbered prompts with blank space.
 - A back-of-page "if you only do one thing" line.
+
+## handout-filled-example.md
+
+The same handout, same structure, but filled in end to end with one realistic worked example —
+so a reader can see what "done" looks like before they try it themselves. Invent the example;
+label it clearly as an example, never as a real client's data. It must show, explicitly and
+separately from the worksheet answers:
+
+- **Context example** — a concrete sample of what the automation/agent should look at or use as
+  input: an example email, order, ticket, record, whatever fits the day's build. Enough detail
+  that someone could see exactly what "the agent reads this" means.
+- **Definition of done** — a concrete example of the finished output. Specific enough that a
+  reader could hold a real run's result next to this and tell whether it succeeded.
