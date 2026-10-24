@@ -28,6 +28,7 @@ at least two new workshops per month.
 | `sources/snips/<YYYY-MM-DD>-<slug>.md` | Raw snips from one episode, verbatim, with links |
 | `state/processed-episodes.md` | Ledger of episodes already turned into workshops |
 | `templates/workshop-template.md` | The fixed structure every workshop follows |
+| `content-ideas/brand-plan.md` | Draft brand plan for Rachael's posts and short videos (added Oct 7, 2026; waiting on her decisions) |
 | `CLAUDE.md` | Instructions the cloud agent follows on each run |
 
 ## Working on this locally
