@@ -7,16 +7,16 @@ Rachael Quisel teaches it. Rachael is an AI and Automation Workflow Consultant a
 ## Join a live session
 
 - Sessions run on the second Friday of each month, 9:00 to 10:00 AM Pacific, on Zoom.
-- Register on the [XRAY Workspace event page](https://workspace.xray.tech/events/office-hours).
+- Register on Luma using the link for the session you want. The [XRAY Workspace event page](https://workspace.xray.tech/events/office-hours) lists every session too.
 - You get the Zoom link after you register.
 
-| Date | Workshop | Materials |
-| --- | --- | --- |
-| Friday, November 13, 2026 | The Colleague Audit | [plan](workshops/2026-09-30-the-colleague-audit/workshop.md) · [handout](workshops/2026-09-30-the-colleague-audit/handout.md) |
-| Friday, December 11, 2026 | The Proof Audit | [plan](workshops/2026-10-01-the-proof-audit/workshop.md) · [handout](workshops/2026-10-01-the-proof-audit/handout.md) |
-| Friday, January 8, 2027 | The Sorting Line | [plan](workshops/2026-10-15-the-sorting-line/workshop.md) · [handout](workshops/2026-10-15-the-sorting-line/handout.md) |
-| Friday, February 12, 2027 | The Failure Math | Not in this repository yet |
-| Friday, March 12, 2027 | Check a Skill Before You Let It Run in Your Business | [plan](workshops/2026-11-03-check-a-skill-before-you-let-it-run-in-your-business/workshop.md) · [handout](workshops/2026-11-03-check-a-skill-before-you-let-it-run-in-your-business/handout.md) |
+| Date | Workshop | Register | Materials |
+| --- | --- | --- | --- |
+| Friday, November 13, 2026 | The Colleague Audit | [Register on Luma](https://luma.com/p9wt4a4u) | [plan](workshops/2026-09-30-the-colleague-audit/workshop.md) · [handout](workshops/2026-09-30-the-colleague-audit/handout.md) |
+| Friday, December 11, 2026 | The Proof Audit | [Register on Luma](https://luma.com/9xc0c2np) | [plan](workshops/2026-10-01-the-proof-audit/workshop.md) · [handout](workshops/2026-10-01-the-proof-audit/handout.md) |
+| Friday, January 8, 2027 | The Sorting Line | [Register on Luma](https://luma.com/u87blgxz) | [plan](workshops/2026-10-15-the-sorting-line/workshop.md) · [handout](workshops/2026-10-15-the-sorting-line/handout.md) |
+| Friday, February 12, 2027 | The Failure Math | [Register on Luma](https://luma.com/bdjxibqk) | Not in this repository yet |
+| Friday, March 12, 2027 | Check a Skill Before You Let It Run in Your Business | [Register on Luma](https://luma.com/3gqs4ylt) | [plan](workshops/2026-11-03-check-a-skill-before-you-let-it-run-in-your-business/workshop.md) · [handout](workshops/2026-11-03-check-a-skill-before-you-let-it-run-in-your-business/handout.md) |
 
 ## Every workshop
 
