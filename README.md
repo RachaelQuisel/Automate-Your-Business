@@ -15,8 +15,8 @@ There are two series. Both teach the same workshops. You get the Zoom link or th
 
 | Date | Workshop | Register | Materials |
 | --- | --- | --- | --- |
-| Friday, November 13, 2026 | The Colleague Audit | [Register on Luma](https://luma.com/p9wt4a4u) | [plan](workshops/2026-09-30-the-colleague-audit/workshop.md) · [handout](workshops/2026-09-30-the-colleague-audit/handout.md) |
-| Friday, December 11, 2026 | The Proof Audit | [Register on Luma](https://luma.com/9xc0c2np) | [plan](workshops/2026-10-01-the-proof-audit/workshop.md) · [handout](workshops/2026-10-01-the-proof-audit/handout.md) |
+| Friday, November 13, 2026 | The Colleague Audit | [Register on Luma](https://luma.com/p9wt4a4u) | [plan](workshops/2026-09-30-the-colleague-audit/workshop.md) · [handout](workshops/2026-09-30-the-colleague-audit/handout.md) · [flyer](workshops/2026-09-30-the-colleague-audit/flyer-2026-11-13.pdf) |
+| Friday, December 11, 2026 | The Proof Audit | [Register on Luma](https://luma.com/9xc0c2np) | [plan](workshops/2026-10-01-the-proof-audit/workshop.md) · [handout](workshops/2026-10-01-the-proof-audit/handout.md) · [flyer](workshops/2026-10-01-the-proof-audit/flyer-2026-12-11.pdf) |
 | Friday, January 8, 2027 | The Sorting Line | [Register on Luma](https://luma.com/u87blgxz) | [plan](workshops/2026-10-15-the-sorting-line/workshop.md) · [handout](workshops/2026-10-15-the-sorting-line/handout.md) |
 | Friday, February 12, 2027 | The Failure Math | [Register on Luma](https://luma.com/bdjxibqk) | Not in this repository yet |
 | Friday, March 12, 2027 | Check a Skill Before You Let It Run in Your Business | [Register on Luma](https://luma.com/3gqs4ylt) | [plan](workshops/2026-11-03-check-a-skill-before-you-let-it-run-in-your-business/workshop.md) · [handout](workshops/2026-11-03-check-a-skill-before-you-let-it-run-in-your-business/handout.md) |
