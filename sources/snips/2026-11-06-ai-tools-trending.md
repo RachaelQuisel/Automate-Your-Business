@@ -5,6 +5,8 @@ All items verified via a real page fetch on November 6, 2026. Window: November 3
 Fresh steer: three days ago the story was checking a skill before you let it run. Today the story is what happens after you trust one: letting a command-line agent such as Claude Code or Codex take work in the background, on a clock, from a GitHub issue, or from a webhook, and come to you only when a decision is unclear. Agent Autoloop is the trending MIT-licensed hub that does this on your own Mac or Linux machine. The brief Rachael received said 2.3k stars; the repository page showed 3.4k stars and 621 forks on November 6. The project's own security page is unusually plain about what it does not protect you from, which is why the security page, not the README, is today's workshop pick.
 
 ### Snip 1: Agent Autoloop runs Claude Code and Codex in the background and sends you a card when it needs a decision
+- Theme: The background helper
+- Used in: 2026-11-06-let-your-ai-helper-work-in-the-background-and-ask-only-when-it-needs-you
 - Source: GitHub, KKKKhazix/agent-autoloop, README (written in Chinese; translated on fetch)
 - Episode/article: "Agent Autoloop: A Self-Hosted Hub That Lets Claude Code and Codex Work in the Background" (brief received November 6, 2026)
 - Date: 2026-11-06
@@ -14,6 +16,8 @@ Fresh steer: three days ago the story was checking a skill before you let it run
 - Loop/workflow angle: the shape every small business background job needs, in one tool: a trigger, a named worker, one folder, one job sentence, and a card that stops the clock until a person decides. Today's workshop pick, paired with Snip 2.
 
 ### Snip 2: The project's own SECURITY.md says what the hub does and does not protect
+- Theme: The rule card fences
+- Used in: 2026-11-06-let-your-ai-helper-work-in-the-background-and-ask-only-when-it-needs-you
 - Source: GitHub, KKKKhazix/agent-autoloop, SECURITY.md (written in Chinese; translated on fetch)
 - Episode/article: "SECURITY.md"
 - Date: 2026-11-06
@@ -23,6 +27,8 @@ Fresh steer: three days ago the story was checking a skill before you let it run
 - Update 2026-11-15: re-read on November 15, the security page states that `askFirst` is a requirement written into the prompt, and if the agent does not follow it the hub cannot stop it; real enforcement comes from `access` and the agent's own sandbox. The workshop teaches ask-first as a request and puts side effects out of reach as the lock.
 
 ### Snip 3: What the one-line installer actually does, read before running
+- Theme: Read the installer first
+- Used in: 2026-11-06-let-your-ai-helper-work-in-the-background-and-ask-only-when-it-needs-you
 - Source: GitHub, KKKKhazix/agent-autoloop, install.sh (read in full on November 6)
 - Episode/article: "install.sh"
 - Date: 2026-11-06
@@ -31,6 +37,8 @@ Fresh steer: three days ago the story was checking a skill before you let it run
 - Loop/workflow angle: a one-line install is a trust decision, same as a skill. This one is readable in five minutes, uses no administrator rights, and installs a background service, which is the part to know about before you run it.
 
 ### Snip 4: Release 1.0.0 landed November 3 with a 1,650-line kernel and no runtime dependencies
+- Theme: Small enough to read
+- Used in: 2026-11-06-let-your-ai-helper-work-in-the-background-and-ask-only-when-it-needs-you
 - Source: GitHub, KKKKhazix/agent-autoloop, Releases
 - Episode/article: "Release 1.0.0"
 - Date: 2026-11-03
