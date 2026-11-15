@@ -27,7 +27,8 @@ Teach date: TBD. Print this handout. Fill it in by hand or on a computer during 
 
 - Permission level (the hub's default is edit: change files in its folder only): ______________________________
 - Things it may do on its own, without a card: ______________________________
-- Things it must stop and ask about first (anything that sends, spends, publishes, or deletes): ______________________________
+- Things it must stop and ask about first (this is written into its instructions; the hub cannot force it): ______________________________
+- Things it must not be able to reach at all, so it cannot do them even by mistake (anything that sends, spends, publishes, or deletes): ______________________________
 - Where the passwords and keys on that computer live, and whether the helper can reach them: ______________________________
 - Separate user account or container for the helper (yes, no, or not yet, and why): ______________________________
 
@@ -58,4 +59,4 @@ Read this out loud at the end of the workshop:
 
 "My helper ____________________ in the ____________________ folder at ____________________. It may ____________________ on its own. It asks ____________________ before ____________________. It stops when ____________________, and ____________________ shows me why."
 
-Assignment: this week, install the hub on one computer that does not hold your passwords, or have your technical person do it, and run the trial. Then run your rule card as a real rule for five mornings with the permission left at edit and every side effect behind a card. Write down what it cost per day from the status line, and the one question it asked that you did not expect. Bring the card and those two numbers to your next session.
+Assignment: this week, install the hub on one computer that does not hold your passwords, or have your technical person do it, and run the trial. Then run your rule card as a real rule for five mornings with the permission left at edit, nothing that sends, spends, or deletes signed in where the helper can reach it, and every decision on your ask line coming to you as a card. Write down what it cost per day from the status line, and the one question it asked that you did not expect. Bring the card and those two numbers to your next session.

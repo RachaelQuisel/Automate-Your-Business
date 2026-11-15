@@ -30,6 +30,7 @@ The example business is Harbor Turnovers, a two-person home services and short-t
 - Permission level: Edit, the hub's default. It may read and write files in the morning-brief folder.
 - Things it may do on its own, without a card: Read the message files and the schedule. Write the brief. Write draft replies into the brief, marked DRAFT.
 - Things it must stop and ask about first: Any message mentioning a refund over 100 dollars. Any message mentioning damage. Any door-code problem. Anything that seems to need a file outside this folder.
+- Things it must not be able to reach at all: No email account, no Airbnb or VRBO login, and no payment tool is signed in under the `helper` account. It cannot send a reply or issue a refund even if a guest message tells it to. The ask line above is an instruction the helper is asked to follow; this line is the lock.
 - Where the passwords and keys on that computer live, and whether the helper can reach them: The Mac mini on the office shelf holds no password manager and no banking login. Dana's laptop holds those, and the hub is not installed there.
 - Separate user account or container for the helper: Yes. The hub runs under a user account named `helper` on the Mac mini, with the morning-brief folder shared into it. Done before the first run.
 
