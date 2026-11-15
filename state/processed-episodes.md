@@ -18,6 +18,7 @@ Append-only. Newest at the bottom.
 | 2026-10-01 | Super Data Science: ML & AI | 1024: In Case You Missed It in August 2026 | `1a0a0b550e180e54` | (pre-dates per-concept tracking) | 10 of 11 | `workshops/2026-10-01-the-proof-audit` |
 | 2026-10-13 | Lenny's Podcast: Product | OpenAI's Head of ChatGPT: We're entering a new era of AI (again) \| Tibo Sottiaux | `1a10ca55f2a41555` | Standing Watch | 3 of 10 | `workshops/2026-10-13-the-standing-watch` |
 | 2026-10-15 | How I AI | Jev: 8 real use cases for the fastest, cheapest model I've ever used \| John Lindquist | `1a13a4c9edf357fa` | The Sorting Line | 5 of 11 | `workshops/2026-10-15-the-sorting-line` |
+| 2026-11-15 | Lenny's Podcast: Product | Why PMs are suddenly valuable again \| Tulsee Doshi (Head of Product, Gemini) | `1a1d690844e605f3` | The 60-20-20 Build | 4 of 13 | `workshops/2026-11-15-the-60-20-20-build` |
 
 ## Episodes archived, with mining status
 
@@ -42,6 +43,25 @@ been built from it yet. This is what Step 3 scans each run — not just the newe
 | 2026-10-14 | Hard Fork | A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous? | `1a13a67652d6c529` | `2026-10-14-cute-cuddly-catastrophically-dangerous-agents.md` | Not yet mined — one strong theme (what you hand an agent the keys to), rest is macro AI-safety/policy |
 | 2026-10-14 | All-In with Chamath, Jason, Sacks & Friedberg | GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal | `1a13ab8e98d3325f` | `2026-10-14-gpt-6-agi-and-euphoria.md` | Not yet mined — mostly macro markets/policy/geopolitics; one usable theme (don't mistake a security bug for a rogue agent) |
 | 2026-10-14 | Lenny's Podcast: Product | How we restructured Airtable's entire org for AI \| Howie Liu (co-founder and CEO) | `1a13b0c5244fd560` | `2026-10-14-airtable-reorg-for-ai.md` | Not yet mined — 7+ themes identified (protect time to experiment, prototype not spec, low-hanging fruit first) |
+| 2026-10-16 | How I AI | How OpenAI uses ChatGPT Sites (live at DevDay!) \| Kath Korevec (Product Lead) | `1a1428de2b7cb842` | `2026-10-16-chatgpt-sites-kath-korevec.md` | Not yet mined — 11 snips |
+| 2026-10-20 | The Daily | Elizabeth Holmes and Nathan Fielder Keep Us Guessing | `1a15810d597376b5` | `2026-10-20-elizabeth-holmes-nathan-fielder.md` | Not yet mined — true-crime/entertainment commentary, mostly off-topic for this audience |
+| 2026-10-22 | Lenny's Podcast: Product | Why every company now needs to think and operate like a lab team \| Josh Woodward (Google Labs, Gemini, AI Studio) | `1a1625cc1be7c21a` | `2026-10-22-operate-like-a-lab-team.md` | Not yet mined — 16 snips, several themes identified |
+| 2026-10-23 | The a16z Show | The Frontier Ideas a16z Wants to Fund \| Marc Andreessen, Ben Horowitz & Chris Dixon | `1a1683666515d96a` | `2026-10-23-a16z-frontier-ideas-to-fund.md` | Not yet mined — 12 snips |
+| 2026-10-23 | Lenny's Podcast: Product | Inside the black box of AI: How AI models actually think \| Emmanuel Ameisen (Anthropic) | `1a16904879fcb5f0` | `2026-10-23-inside-black-box-ai-thinking.md` | Not yet mined — 23 snips, several themes identified |
+| 2026-10-23 | The a16z Show | Why Real-World AI Is Harder Than the Benchmark \| EliseAI's Mario Martone | `1a168ce22c8627d8` | `2026-10-23-real-world-ai-harder-benchmark.md` | Not yet mined — 8 snips |
+| 2026-10-23 | Lenny's Podcast: Product | Head of Claude Code: What happens after coding is solved \| Boris Cherny | `1a168b2f597ba22e` | `2026-10-23-claude-code-after-coding-solved.md` | Not yet mined — 17 snips |
+| 2026-11-07 | Hard Fork | Why the Tech Right Lost Big This Week | `1a1b583dbbcf1df6` | `2026-11-07-tech-right-lost-big-week.md` | Not yet mined — mostly US tech-politics commentary, low owner-actionability |
+| 2026-11-07 | Lenny's Podcast: Product | AI's third era: the rise of persistent AI coworkers \| Tara Seshan | `1a1b5ad1639adad6` | `2026-11-07-persistent-ai-coworkers-tara-seshan.md` | Not yet mined — 11 snips |
+| 2026-11-07 | The a16z Show | The Race to Recursive Self-Improving AI | `1a1b6b2d8b837aa8` | `2026-11-07-race-recursive-self-improving-ai.md` | Not yet mined — 12 snips |
+| 2026-11-07 | Latent Space: The AI Engineer Podcast | Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio | `1a1b6c18dc2be7d6` | `2026-11-07-lab-in-the-loop-compute-speed.md` | Not yet mined — 14 snips, mostly biotech/lab-automation, low owner-actionability |
+| 2026-11-07 | The a16z Show | Garry Tan on Taste, Agents and Founder Ambition | `1a1b6ce2d8dec71d` | `2026-11-07-garry-tan-taste-agents-ambition.md` | Not yet mined — 104 snips (unusually large, many near-duplicates), many themes identified |
+| 2026-11-07 | Lenny's Podcast: Product | OpenAI Codex lead on the new shape of product work \| Andrew Ambrosino | `1a1b6dad727df88e` | `2026-11-07-codex-new-shape-of-product-work.md` | Not yet mined — 17 snips, several themes identified |
+| 2026-11-09 | The a16z Show | The Health Interventions Actually Worth Your Time \| Justin Mares | `1a1bdc68b99c4286` | `2026-11-09-health-interventions-worth-your-time.md` | Not yet mined — only 2 snips, thin material |
+| 2026-11-10 | Stuff You Missed in History Class | Anne of Brittany | `1a1c5125a6117812` | `2026-11-10-anne-of-brittany.md` | Not yet mined — history/entertainment, mostly off-topic for this audience |
+| 2026-11-10 | The a16z Show | Inside Salesforce's $100 Billion M&A Playbook \| John Somorjai | `1a1c47cdc34bb565` | `2026-11-10-salesforce-100-billion-ma-playbook.md` | Not yet mined — 9 snips, several usable themes identified |
+| 2026-11-13 | Lenny's Podcast: Product | Why PMs are suddenly valuable again \| Tulsee Doshi (Head of Product, Gemini) | `1a1d690844e605f3` | `2026-11-13-why-pms-suddenly-valuable-again.md` | 1 workshop built (The 60-20-20 Build); 9 of 13 snips still at zero citations |
 
 No episode above is exhausted by the 90%-used-twice rule — most haven't been touched at all.
-Runway for daily workshops is currently measured in dozens, not days.
+Runway for daily workshops is currently measured in dozens, not days. 17 new episodes landed this
+run (2026-11-15) from the Gmail search and were archived to `sources/snips/` even though only one
+was mined today — see CLAUDE.md Step 2.
